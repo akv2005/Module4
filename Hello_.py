@@ -1,9 +1,6 @@
-def hello_():
-    h1 = 'Hello, '
-    return h1
+def h_():
+    print('Hello, world')
 
-def world_():
-    w1 = 'world!'
-    return w1
+def w_():
+    print('Hello,  world!')
 
-print(world_(), hello_())

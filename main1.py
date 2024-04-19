@@ -1,2 +1,4 @@
 import Hello_
-print(Hello_.hello_(),Hello_.world_())
+
+Hello_.h_()
+Hello_.w_()
